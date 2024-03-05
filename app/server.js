@@ -1,6 +1,6 @@
 // const cors = require("cors");
 const app = require('./app');
-const PORT = 3000;
+const PORT = 8000;
 
 // app.use(cors)
 // const cors = require('cors')
